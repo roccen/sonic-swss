@@ -51,6 +51,8 @@ cfgmgr/vrfmgrd
 cfgmgr/vxlanmgrd
 cfgmgr/natmgrd
 cfgmgr/sflowmgrd
+cfgmgr/coppmgrd
+cfgmgr/tunnelmgrd
 fpmsyncd/fpmsyncd
 gearsyncd/gearsyncd
 mclagsyncd/mclagsyncd
